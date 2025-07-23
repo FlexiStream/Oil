@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Eco Star M - إعادة تدوير الزيوت</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background: #f4f4f4;
+      color: #333;
+      direction: rtl;
+    }
+    .header {
+      background-color: #28a745;
+      padding: 20px;
+      text-align: center;
+      color: white;
+    }
+    .header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    .section {
+      padding: 30px 20px;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      margin-top: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    .section h2 {
+      color: #28a745;
+      margin-top: 0;
+    }
+    .button {
+      display: inline-block;
+      background-color: #25D366;
+      color: white;
+      padding: 15px 25px;
+      margin-top: 20px;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 8px;
+      transition: background 0.3s;
+    }
+    .button:hover {
+      background-color: #1eb151;
+    }
+    .footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <h1>Eco Star M</h1>
+    <p>خبراء في جمع وتدوير زيت القلي المستعمل</p>
+  </div>
+
+  <div class="section">
+    <h2>📢 من نحن؟</h2>
+    <p>
+      نحن شركة متخصصة في جمع وإعادة تدوير زيت الطبخ المحترق من المطاعم، الفنادق، المقاهي، والوجبات السريعة.
+      نساعد شركاءنا في التخلص من الزيوت بطريقة صديقة للبيئة ونوفر لهم حلاً سهلاً وآمنًا ومربحًا.
+    </p>
+
+    <h2>✅ ماذا نقدم؟</h2>
+    <ul>
+      <li>جمع مجاني لزيوت القلي المستعملة.</li>
+      <li>توفير حاويات نظيفة وآمنة لتخزين الزيوت.</li>
+      <li>زيارات دورية (أسبوعية أو شهرية) حسب الطلب.</li>
+      <li>تعويض مادي مقابل كل كمية يتم جمعها.</li>
+      <li>خدمة موثوقة وسريعة في جميع المدن المغربية.</li>
+    </ul>
+
+    <h2>💡 لماذا تختار Eco Star M؟</h2>
+    <ul>
+      <li>حل عملي وسهل لتوفير الوقت والمجهود.</li>
+      <li>تساهم في حماية البيئة وتقليل التلوث.</li>
+      <li>دعم مباشر للأعمال التجارية الصغيرة والمتوسطة.</li>
+    </ul>
+
+    <a class="button" href="https://wa.me/212753188006?text=مرحبًا، أود معرفة المزيد عن خدمات جمع زيت القلي من مطعمي." target="_blank">
+      📲 تواصل معنا عبر واتساب
+    </a>
+  </div>
+
+  <div class="footer">
+    © 2025 Eco Star M | جميع الحقوق محفوظة
+  </div>
+
+</body>
+</html>
